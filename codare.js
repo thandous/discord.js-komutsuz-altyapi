@@ -2,9 +2,9 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 
 client.conf = {
-"token": "TOKEN ",
+"token": "OTY4NDg3ODY3OTA1MTA1OTMw.GeidyT.EyuHeAJaxTBNc0mzwsrtJSsp4PQRqZoGcuUFGw",
  "pref": "!",
-  "own": "idniz",
+  "own": "816844927848939561",
   "oynuyor": "Oynuyor",
   "durum": "dnd"// durumu
 }
